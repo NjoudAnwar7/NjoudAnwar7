@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @NjoudAnwar7
+- 👋 Hi There Im Njoud Anwar Almoufi
 - 👀 I’m interested in education
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on be smart person
+- 🌱 I’m currently working on web development 
 - 📫 How to reach me ...
 
 <!---
